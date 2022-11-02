@@ -1,4 +1,4 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang or shibank
 clear
 number="1"
 until [ "$number" == "10" ]

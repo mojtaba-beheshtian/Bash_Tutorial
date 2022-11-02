@@ -1,4 +1,4 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang or shibank
 clear
 read -p "Please enter hour:" h
 read -p "Please enter minute:" m

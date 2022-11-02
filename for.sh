@@ -1,4 +1,4 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang or shibank
 clear
 for number in {1..9}
 	do

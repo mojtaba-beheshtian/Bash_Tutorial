@@ -1,4 +1,4 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang 
 read -p "Please enter name:" name
 case "$name" in
 	"alireza")

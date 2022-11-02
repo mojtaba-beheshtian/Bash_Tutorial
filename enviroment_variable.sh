@@ -1,4 +1,7 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang or shibank
+
+#Variables in a bash script are set using the = sign and accessed using $.
+
 clear		# clear terminal
 a="Amir Ali"
 A="Mojtaba"

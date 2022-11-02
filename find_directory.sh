@@ -1,4 +1,4 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang or shibank
 read -p "Please enter directory name:" directory
 
 if [ -d "$HOME/$directory" ]	#search directory in home directory of user

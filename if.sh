@@ -1,4 +1,4 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang or shibank
 read -p "Please enter your name:" name
 #1
 if [ "$name" == "alireza" ]

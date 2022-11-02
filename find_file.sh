@@ -1,4 +1,4 @@
-#!/bin/bash	#shi bang or shi bank
+#!/bin/bash	#shibang or shibank
 read -p "Please enter file name:" file
 
 if [ -f "$HOME/$file" ]	#search file in home directory of user
