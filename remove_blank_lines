@@ -1,0 +1,10 @@
+#!/bin/bash
+clear
+sed '/^$/d' File_name >tst2
+count=1
+while read line
+do
+        echo $count $line >> test2
+        ((count++))
+done < tst2
+

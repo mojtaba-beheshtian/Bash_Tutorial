@@ -1,0 +1,9 @@
+#!/bin/bash
+clear
+count=1
+while read line
+do
+        echo $count $line
+        ((count++))
+done < file_name.txt
+
